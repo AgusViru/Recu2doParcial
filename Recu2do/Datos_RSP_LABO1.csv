@@ -1,0 +1,22 @@
+id,servicio,medida,precio,rubroId
+1,Masas finas,1 kl,170,1
+2,Sandwich de miga,100 u,1100,2
+3,Pata de Jamón,100 gr,170,3
+4,Coca Cola,1 lts,85,4
+5,Queso Azul,250 gr,130,3
+6,Empanadas de copetín,1 u,15,2
+7,Cerveza Patagonia,1 lt,140,4
+8,Tarta de Ricota,1 u,450,1
+9,Aceitunas verdes rellenas Morron,100 grs,145,3
+10,Sidra Real,1 l,99,4
+11,Jugo Narajna Bagio,1 lts,85,4
+12,Foforitos,1 u,12,1
+13,MediaLuna JyQ,1 u,45,1
+14,Mini Albondigas Carne,1 u,12,1
+15,Mortadela,100 gr,65,1
+16,Salame Milan,100 gr,68,3
+17,Salchichas envueltas,1 u,6,2
+18,Masas secas,250 gr,210,1
+19,Fanta Naranja,2 lts,75,4
+20,Pizzeta JyQ,1 u,25,2
+21,Sandwich matambre,1 u,64,2
