@@ -1,1 +1,1 @@
-# Recu2doParcial
+# Practica de SegundoParcial Laboratorio
